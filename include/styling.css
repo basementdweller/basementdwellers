@@ -1,0 +1,97 @@
+* {
+	font-family: Arial.Verdana.sans-serif;
+	background-color:white;
+}
+
+
+.nav-header h1, .nav-header h3 /*basement dwellers*/
+{
+	color:black;
+	text-align: center;
+	width: 350px;
+	padding:10px;
+	margin: 10px auto 10px auto;
+
+}
+
+.nav-bar
+{
+	font-family: "courier", Courier, monospace;
+	font-size: 20px;
+
+}
+
+.nav-bar a
+{
+	color:black;
+	text-decoration: none;
+}
+
+.nav-bar a:hover
+{
+	color:yellow;
+	text-decoration: none;
+}
+.nav-bar ul
+{
+	width:750px;
+	padding:15px;
+	margin:0px auto 0px;
+	text-align: center;
+
+}
+
+.nav-bar li
+{
+	display:inline;
+	margin:50px 50px;
+	list-style-type: none;
+}
+
+/* place holder till pictures arrive */
+#webblock li, #computerblock li, #appblock li
+{
+	list-style-type: none;
+}
+
+#webblock a, #computerblock a, #appblock a
+{
+	color:black;
+	text-decoration: none;
+}
+
+#webblock a:hover, #computerblock a:hover, #appblock a:hover
+{
+	color:red;
+	text-decoration: none;
+}
+
+#webblock h2, #computerblock h2, #appblock h2
+{
+	text-align: center;
+}
+
+
+/*
+.jobblock ul
+{
+	width:1000px;
+	padding: 15px;
+	margin:0px auto 0px;
+	text-align: center;
+}
+
+.jobblock li
+{
+	display: inline;
+	margin:50px 50px;
+	list-style-type: none;
+}
+*/
+
+
+.footer
+{
+	color:gray;
+	text-align: center;
+}
